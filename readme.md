@@ -26,7 +26,7 @@ server {
 
 ## Todo's
 
-[] fix scaling for mobile devices
-[] add a 504 page
-[] add a maintenance-page
-[] add a rate-limit error page
+- [] fix scaling for mobile devices
+- [] add a 504 page
+- [] add a maintenance-page
+- [] add a rate-limit error page
